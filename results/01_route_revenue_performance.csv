@@ -1,0 +1,16 @@
+"pickup_borough","pickup_zone","dropoff_borough","dropoff_zone","total_trips","total_revenue","avg_revenue_per_trip","avg_trip_distance","revenue_rank"
+Manhattan,East Harlem North,Manhattan,East Harlem South,6187,88848.68,14.36,1.38,1
+Manhattan,East Harlem North,Manhattan,Upper East Side North,3722,79510.87,21.36,2.02,2
+Manhattan,East Harlem South,Manhattan,East Harlem North,4035,53183.36,13.18,1.30,3
+Manhattan,East Harlem North,Manhattan,Upper West Side North,1830,45307.57,24.76,2.72,4
+Manhattan,East Harlem North,Manhattan,Morningside Heights,2512,43063.37,17.14,1.77,5
+Manhattan,East Harlem North,Manhattan,Yorkville West,1869,41153.16,22.02,2.22,6
+Queens,Elmhurst,Queens,LaGuardia Airport,1096,31787.96,29.00,3.64,7
+Manhattan,East Harlem North,Queens,LaGuardia Airport,639,31677.88,49.57,6.76,8
+Manhattan,East Harlem South,Manhattan,Upper East Side North,1950,30905.16,15.85,0.99,9
+Manhattan,East Harlem North,Manhattan,Upper West Side South,1057,30464.34,28.82,3.31,10
+Queens,Forest Hills,Queens,Forest Hills,2056,27825.20,13.53,1.09,11
+Manhattan,East Harlem North,Manhattan,Central Park,1425,25816.66,18.12,1.77,12
+Manhattan,East Harlem North,Manhattan,Lenox Hill East,909,25637.67,28.20,3.50,13
+Manhattan,East Harlem South,Manhattan,Upper West Side North,1505,25121.52,16.69,1.35,14
+Manhattan,East Harlem North,Manhattan,Yorkville East,1015,25054.08,24.68,2.65,15

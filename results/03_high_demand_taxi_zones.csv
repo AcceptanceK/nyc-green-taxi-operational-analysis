@@ -1,0 +1,16 @@
+"pickup_borough","pickup_zone","total_trips","total_revenue","avg_revenue_per_trip","peak_hour_trips","peak_hour_share_pct","network_trip_share_pct","demand_rank"
+Manhattan,East Harlem North,33982,702286.77,20.67,4244,12.5,24.7,1
+Manhattan,East Harlem South,22921,486061.76,21.21,6634,28.9,16.7,2
+Manhattan,Central Park,7499,170452.27,22.73,2151,28.7,5.5,3
+Manhattan,Morningside Heights,6910,152293.15,22.04,1126,16.3,5.0,4
+Queens,Forest Hills,6653,139614.74,20.99,1467,22.1,4.8,5
+Manhattan,Central Harlem,5739,109681.32,19.11,809,14.1,4.2,6
+Brooklyn,Fort Greene,5476,124042.16,22.65,1183,21.6,4.0,7
+Queens,Elmhurst,5088,120733.68,23.73,1238,24.3,3.7,8
+Brooklyn,Downtown Brooklyn/MetroTech,4086,106811.21,26.14,897,22.0,3.0,9
+Queens,Jamaica,4079,113947.28,27.94,659,16.2,3.0,10
+Manhattan,Washington Heights South,3407,118739.83,34.85,691,20.3,2.5,11
+Manhattan,Central Harlem North,2520,50368.13,19.99,331,13.1,1.8,12
+Queens,Astoria,2199,45924.95,20.88,283,12.9,1.6,13
+Queens,Jackson Heights,2119,46743.76,22.06,246,11.6,1.5,14
+Brooklyn,DUMBO/Vinegar Hill,1581,51443.82,32.54,221,14.0,1.2,15
